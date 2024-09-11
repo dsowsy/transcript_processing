@@ -2,7 +2,7 @@
 
 ![colorized-preview](https://github.com/user-attachments/assets/0c54bbc4-ea23-40de-a891-35764a384353)
 
-# transcript_processing
+# Transcript processing
 A quick exercise in processing a debate transcript with ChatGPT using Python to generate multi-speaker HTML colorized text. 
 
 Transcript.txt - The input transcript that has video timecodes, duplication of speaker names. 
