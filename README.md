@@ -6,7 +6,8 @@
 A quick exercise in processing a debate transcript with ChatGPT using Python to generate multi-speaker HTML colorized text. 
 
 Transcript.txt - The input transcript that has video timecodes, duplication of speaker names. 
-transcript_cleaned.txt - The intermediate text file that removes the timestamps, duplicate speaker names, and trims the whitespace/newlines around the colons ":" to make it more readable
+transcript_cleaned.txt - The intermediate text file that removes the timestamps, duplicate speaker names, 
+                        and trims the whitespace/newlines around the colons ":" to make it more readable
 transcript.html - The output HTML with the speaker names bolded, and unique color for each speaker. 
 
 process_transcript.py - The generated script used to run.
