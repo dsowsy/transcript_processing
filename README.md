@@ -17,3 +17,7 @@ process-debate-chatlog-dark.pdf - The chatlog between myself and ChatGPT to gene
 
 `python process_transcript.py Transcript.py transcript_cleaned.txt transcript.html`
 
+# Credits
+
+Original source transcript provided by Rev.com
+https://www.rev.com/blog/transcripts/harris-vs-trump-presidential-debate
